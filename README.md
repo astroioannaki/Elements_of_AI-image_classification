@@ -1,2 +1,3 @@
-## Image classification demo using logistic regression multilayer Perceptron and concolutional neural networks
-Image classification using logistic regression, multilayer Perceptron and convolutional neural networks for an Elements of AI demo session
+## Image classification demo session for Elements of AI
+In this demo session we take a look at image classification on the MNIST data, using a Logistic Regression classifier, a Multilayer Perceptron and a Convolutional Neural Network.
+![alt text](https://github.com/JonnaBuri/image_classification-LR-MLP-CNN/img.jpg?raw=true)
